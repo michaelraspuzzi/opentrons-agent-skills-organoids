@@ -216,11 +216,7 @@ See [output/skills-workflow-output.md](output/skills-workflow-output.md) for a f
 
 ## Credits
 
-- **Mendjan Lab (IMBA Vienna)** - Cardioid development methods
-- **Aguirre Lab (Michigan State)** - Self-assembling heart organoids
-- **Mills/Hudson Lab (QIMR Berghofer)** - Maturation protocols
-- **Opentrons** - Open-source liquid handling platform
-- Skills created using [Claude Projects](https://claude.ai)
+- Skills created using [Skills Creator for Skills](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
 - Protocols debugged using [Claude Code](https://claude.ai/code)
 - Scientific validation by Perplexity AI (LLM-as-judge)
 
