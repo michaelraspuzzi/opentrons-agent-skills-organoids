@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+venv-opentrons/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Opentrons
+.opentrons/
